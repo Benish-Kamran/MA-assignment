@@ -1,0 +1,3 @@
+include ':TazaGoshtAdmin'
+include ':app'
+rootProject.name = "Taza Ghost"
